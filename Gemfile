@@ -6,7 +6,7 @@ gem "middleman", "3.3.12"
 
 # Assets
 gem "bootstrap-sass", "~> 3.3.5.1", require: false
-gem "font-awesome-middleman", "~> 4.2.3"
+gem "font-awesome-middleman", github: 'hello-jason/font-awesome-middleman', branch: 'update-4-4-0'
 gem "middleman-favicon-maker", "~> 3.7"
 
 # Templating
